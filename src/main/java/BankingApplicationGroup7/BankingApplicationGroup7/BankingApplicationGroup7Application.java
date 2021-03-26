@@ -10,6 +10,13 @@ public class BankingApplicationGroup7Application {
 	public static void main(String[] args) {
 		SpringApplication.run(BankingApplicationGroup7Application.class, args);
 	}
+	
+	//Testing a commit by Gaurav
+		public String test() {
+			return null;
+		}
+		
+	
 
 //testing commit by Jo
 }
