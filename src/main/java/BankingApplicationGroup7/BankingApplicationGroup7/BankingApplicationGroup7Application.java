@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BankingApplicationGroup7Application {
 
+	//Testing a commit by Nima
 	public static void main(String[] args) {
 		SpringApplication.run(BankingApplicationGroup7Application.class, args);
 	}
