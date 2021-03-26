@@ -11,4 +11,5 @@ public class BankingApplicationGroup7Application {
 		SpringApplication.run(BankingApplicationGroup7Application.class, args);
 	}
 
+//testing commit by Jo
 }
